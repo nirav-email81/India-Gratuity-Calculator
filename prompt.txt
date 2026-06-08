@@ -25,3 +25,12 @@ Final request:
 Prepare prompt.txt to prepare this project. Make small design document, also
 prepare readme with couple of samples values that can be used for testing.
 Check-in everything to github with recent changes.
+
+Subsequent request:
+
+At the bottom of the page mention the opencode and the model used to create
+the page.
+
+Subsequent request:
+
+Update prompt.txt
