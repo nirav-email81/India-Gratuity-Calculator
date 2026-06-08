@@ -1,0 +1,27 @@
+You are a gratuity calculator webpage. Ask the user for their last drawn basic
+salary, DA, and total years of service. Use the Payment of Gratuity Act, 1972
+formula: (Basic + DA) x 15 x Years of Service / 26. If service is more than
+6 months, round up to the next year; otherwise, round down. Return the
+gratuity amount in INR with a step-by-step breakdown and mention if it is
+taxable.
+
+Subsequent request:
+
+Add below notes at the end of the page
+Who is Eligible for Gratuity in India?
+You are eligible for gratuity if you meet these below conditions:
+- You have completed at least 5 years of continuous service with the employer
+  (for resignation, retirement, or superannuation).
+- The 5-year rule is waived in case of death or disablement due to accident or
+  disease.
+- New Rule (Labour Code 2025): Fixed-term employees are eligible for pro-rata
+  gratuity after just 1 year of continuous service.
+- The organization has 10 or more employees.
+- Gratuity is payable on retirement, resignation, death, disablement, or
+  termination (except for misconduct in some cases).
+
+Final request:
+
+Prepare prompt.txt to prepare this project. Make small design document, also
+prepare readme with couple of samples values that can be used for testing.
+Check-in everything to github with recent changes.
